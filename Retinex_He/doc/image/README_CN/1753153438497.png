@@ -1,0 +1,14 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/HIQC/vivado_projects/Retinex_HE_Enhancement_Optimized/Retinex_HE_Enhancement_Optimized.srcs/sources_1/ip/clk_wiz_0/clk_wiz_0_clk_wiz.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module clk_wiz_0_clk_wiz
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/HIQC/vivado_projects/Retinex_HE_Enhancement_Optimized/Retinex_HE_Enhancement_Optimized.srcs/sources_1/ip/clk_wiz_0/clk_wiz_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module clk_wiz_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/HIQC/FPGA暑期培训/校赛-FPGA处理超高清图像/FPGA-Retinex-HE-Enhancement-Optimized/src/color_space_converter.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module rgb_to_ycbcr
+INFO: [VRFC 10-311] analyzing module ycbcr_to_rgb
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/HIQC/FPGA暑期培训/校赛-FPGA处理超高清图像/FPGA-Retinex-HE-Enhancement-Optimized/src/histogram_equalization_y.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module histogram_equalization_y
+WARNING: [VRFC 10-2019] loop variable declaration is not allowed in this mode of verilog [E:/HIQC/FPGA暑期培训/校赛-FPGA处理超高清图像/FPGA-Retinex-HE-Enhancement-Optimized/src/histogram_equalization_y.v:78]
+ERROR: [VRFC 10-552] declarations not allowed in unnamed block [E:/HIQC/FPGA暑期培训/校赛-FPGA处理超高清图像/FPGA-Retinex-HE-Enhancement-Optimized/src/histogram_equalization_y.v:113]
+WARNING: [VRFC 10-3824] variable 'divisor' must explicitly be declared as automatic or static [E:/HIQC/FPGA暑期培训/校赛-FPGA处理超高清图像/FPGA-Retinex-HE-Enhancement-Optimized/src/histogram_equalization_y.v:114]
+ERROR: [VRFC 10-2951] 'cdf_min' is not a constant [E:/HIQC/FPGA暑期培训/校赛-FPGA处理超高清图像/FPGA-Retinex-HE-Enhancement-Optimized/src/histogram_equalization_y.v:114]
+ERROR: [VRFC 10-2865] module 'histogram_equalization_y' ignored due to previous errors [E:/HIQC/FPGA暑期培训/校赛-FPGA处理超高清图像/FPGA-Retinex-HE-Enhancement-Optimized/src/histogram_equalization_y.v:8]
